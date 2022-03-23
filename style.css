@@ -48,7 +48,7 @@ a{
     color: #e5e7eb;
     margin-bottom: 15px;
 }
-.hero button {
+button {
     background-color: #3882f6;
     color: #f9faf8;
     font-size: 18px;
@@ -68,6 +68,7 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .items{
@@ -79,7 +80,7 @@ a{
     color: #1F2937;
     font-size: 36px;
     font-weight: 900px;
-    margin: 30px;
+    margin: 50px;
 }
 .item{
     display: flex;
@@ -97,3 +98,21 @@ a{
     border-radius: 20px;
     margin-bottom: 10px;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    padding: 100px 200px;
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+.author{
+    align-self: flex-end;
+    font-weight: 900;
+    font-size: 26px;
+}
+
