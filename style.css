@@ -62,7 +62,7 @@ a{
     align-items: center;
     justify-content: center;
     background-color: gray;
-    height: 300px;
+    height: 250px;
 }
 .information{
     display: flex;
@@ -75,6 +75,18 @@ a{
     gap: 30px;
 }
 
+.information h2{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900px;
+    margin: 30px;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .item figcaption{
     width: 150px;
 }
@@ -82,4 +94,6 @@ a{
     width: 125px;
     height: 125px;
     border: 4px #3882f6 solid;
+    border-radius: 20px;
+    margin-bottom: 10px;
 }
