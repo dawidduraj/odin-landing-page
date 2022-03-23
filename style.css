@@ -132,3 +132,9 @@ button {
 .modal button{
     border: 2px white solid;
 }
+footer{
+    background-color: #1F2937;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
