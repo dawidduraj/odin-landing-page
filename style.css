@@ -64,3 +64,22 @@ a{
     background-color: gray;
     height: 300px;
 }
+.information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items{
+    display: flex;
+    gap: 30px;
+}
+
+.item figcaption{
+    width: 150px;
+}
+.image{
+    width: 125px;
+    height: 125px;
+    border: 4px #3882f6 solid;
+}
