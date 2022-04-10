@@ -1,2 +1,4 @@
 # odin-landing-page
-A landing page build for the assignment in [the odin project](https://www.theodinproject.com)
+A landing page build for the assignment of [The Odin Project](https://www.theodinproject.com)
+
+[live preview](https://dawidduraj.github.io/odin-landing-page)
